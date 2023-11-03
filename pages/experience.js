@@ -1,12 +1,12 @@
 import Navbar from "./component/Navbar";
 
-const about = () => {
+const exp = () => {
   return (
     <>
     <Navbar />
-      <div>About</div>
+      <div>My Experience</div>
     </>
   );
 };
 
-export default about;
+export default exp;
